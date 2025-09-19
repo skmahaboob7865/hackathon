@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration Form</title>
+
+
+
+    
     <style>
         body {
+
+
             font-family: 'Segoe UI', sans-serif;
             background: linear-gradient(135deg, #74ebd5, #ACB6E5);
             display: flex;
